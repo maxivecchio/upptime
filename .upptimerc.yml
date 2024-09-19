@@ -10,18 +10,17 @@ sites:
   - name: Benito Fernandez (official site)
     url: https://benitofernandez.com.ar
   - name: Benito Fernandez (preview)
-    url: https://benito.preview.moveup.digital  
-  - name: Shorts Todo Futbol
-    url: https://shortstodofutbol.com.ar  
+    url: https://benito.preview.moveup.digital 
   - name: SlowLiving MX
     url: https://slowlivingmx.com  
+  - name: Shorts Todo Futbol
+    url: https://shortstodofutbol.com.ar  
   - name: File Tools (Front-end)
     url: https://filetools.cloud
   - name: File Tools (API)
     url: https://api.images.platform.moveup.digital
-    
-  #- name: File Tools (File Hosting)
-  #  url: https://testing.vps.moveup.digital    
+  - name: File Tools (File Hosting)
+    url: https://testing.vps.moveup.digital    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
