@@ -35,8 +35,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-  i18n:
-    footer: Powered by [MoveUp](https://moveup.digital)
+i18n:
+  footer: Powered by [MoveUp](https://moveup.digital)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
