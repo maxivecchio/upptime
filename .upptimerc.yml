@@ -13,10 +13,13 @@ sites:
     url: https://benito.preview.moveup.digital  
   - name: Shorts Todo Futbol
     url: https://shortstodofutbol.com.ar  
+  - name: SlowLiving MX
+    url: https://slowlivingmx.com  
   - name: File Tools (Front-end)
     url: https://filetools.cloud
   - name: File Tools (API)
     url: https://api.images.platform.moveup.digital
+    
   #- name: File Tools (File Hosting)
   #  url: https://testing.vps.moveup.digital    
     
