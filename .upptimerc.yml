@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: MoveUp - Main Site
     url: https://moveup.digital
-  - name: Casa Margot
-    url: https://casamargot.com.ar
   - name: Benito Fernandez (official site)
     url: https://benitofernandez.com.ar
   - name: Benito Fernandez (preview)
-    url: https://benito.preview.moveup.digital 
+    url: https://benito.preview.moveup.digital
+  - name: Casa Margot
+    url: https://casamargot.com.ar
   - name: SlowLiving MX
     url: https://slowlivingmx.com  
   - name: Shorts Todo Futbol
