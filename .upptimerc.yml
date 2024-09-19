@@ -28,6 +28,7 @@ status-website:
   cname: status.moveup.digital
   #baseUrl: /upptime
   logoUrl: https://moveup.digital/logo.png
+  favicon: https://moveup.digital/logo.png
   name: MoveUp Status
   introTitle: "**MoveUp Digital** - Status"
   introMessage: ""
