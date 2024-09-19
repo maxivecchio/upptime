@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.moveup.digital
   #baseUrl: /upptime
-  theme: ocean
+  theme: night
   logoUrl: https://moveup.digital/logo.png
   favicon: https://moveup.digital/logo.png
   name: MoveUp Status
@@ -36,8 +36,13 @@ status-website:
   navbar:
     - title: Status
       href: /
+
 i18n:
   footer: Powered by [MoveUp](https://moveup.digital)
+  
+commitMessages:
+  commitAuthorName: "MoveUp Digital"
+  commitAuthorEmail: "hello@moveup.digital"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
