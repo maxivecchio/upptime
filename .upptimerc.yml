@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.moveup.digital
   #baseUrl: /upptime
-  theme: night
+  theme: ocean
   logoUrl: https://moveup.digital/logo.png
   favicon: https://moveup.digital/logo.png
   name: MoveUp Status
