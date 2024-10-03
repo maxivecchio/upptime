@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/casamargot.com.ar.ico",
     "slug": "casa-margot",
     "status": "up",
-    "uptime": "67.01%",
+    "uptime": "67.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.01%",
-    "uptimeYear": "67.01%",
+    "uptimeMonth": "67.86%",
+    "uptimeYear": "67.86%",
     "time": 991,
     "timeDay": 1317,
     "timeWeek": 833,
@@ -103,9 +103,9 @@
     "url": "https://slowlivingmx.com",
     "icon": "https://icons.duckduckgo.com/ip3/slowlivingmx.com.ico",
     "slug": "slow-living-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,16 +114,18 @@
     "timeWeek": 1106,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Shorts Todo Futbol",
     "url": "https://shortstodofutbol.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/shortstodofutbol.com.ar.ico",
     "slug": "shorts-todo-futbol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +134,9 @@
     "timeWeek": 821,
     "timeMonth": 1568,
     "timeYear": 1568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "File Tools (Front-end)",
@@ -147,7 +151,7 @@
     "uptimeYear": "100.00%",
     "time": 982,
     "timeDay": 918,
-    "timeWeek": 1368,
+    "timeWeek": 827,
     "timeMonth": 982,
     "timeYear": 982,
     "dailyMinutesDown": {}
@@ -165,7 +169,7 @@
     "uptimeYear": "100.00%",
     "time": 550,
     "timeDay": 756,
-    "timeWeek": 564,
+    "timeWeek": 568,
     "timeMonth": 550,
     "timeYear": 550,
     "dailyMinutesDown": {}
