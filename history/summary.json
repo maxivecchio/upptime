@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/casamargot.com.ar.ico",
     "slug": "casa-margot",
     "status": "up",
-    "uptime": "74.42%",
+    "uptime": "74.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.42%",
-    "uptimeYear": "74.42%",
+    "uptimeMonth": "74.85%",
+    "uptimeYear": "74.85%",
     "time": 966,
     "timeDay": 1157,
     "timeWeek": 811,
@@ -123,9 +123,9 @@
     "url": "https://shortstodofutbol.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/shortstodofutbol.com.ar.ico",
     "slug": "shorts-todo-futbol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 778,
     "timeMonth": 1450,
     "timeYear": 1450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   },
   {
     "name": "File Tools (Front-end)",
