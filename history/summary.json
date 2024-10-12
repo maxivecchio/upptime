@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/casamargot.com.ar.ico",
     "slug": "casa-margot",
     "status": "up",
-    "uptime": "80.02%",
+    "uptime": "80.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.02%",
-    "uptimeYear": "80.02%",
+    "uptimeMonth": "80.78%",
+    "uptimeYear": "80.78%",
     "time": 971,
     "timeDay": 628,
     "timeWeek": 991,
@@ -106,12 +106,12 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 806,
     "timeDay": 544,
-    "timeWeek": 774,
+    "timeWeek": 792,
     "timeMonth": 806,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -143,10 +143,10 @@
     "url": "https://filetools.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/filetools.cloud.ico",
     "slug": "file-tools-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
@@ -154,17 +154,19 @@
     "timeWeek": 807,
     "timeMonth": 933,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "File Tools (API)",
     "url": "https://api.images.platform.moveup.digital",
     "icon": "https://icons.duckduckgo.com/ip3/api.images.platform.moveup.digital.ico",
     "slug": "file-tools-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
@@ -172,16 +174,18 @@
     "timeWeek": 590,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "File Tools (File Hosting)",
     "url": "https://testing.vps.moveup.digital",
     "icon": "https://icons.duckduckgo.com/ip3/testing.vps.moveup.digital.ico",
     "slug": "file-tools-file-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -191,6 +195,7 @@
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2024-10-12": 0,
       "2024-09-19": 7
     }
   }
